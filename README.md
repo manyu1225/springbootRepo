@@ -1,8 +1,15 @@
-# springbootRepo
-Meeting Minute
+Intellij & Spring Boot
 ===
+###### tags: `Spring Boot` `Intellij`
 
-###### tags: `Templates` `Meeting`
+## 常用快捷鍵列表 
+
+- Ctrl+Shift+F 查詢檔案
+- Ctrl+Shift+N 查詢檔案
+- Ctrl+F 查詢文字
+- Ctrl+R 替換文字
+- Ctrl+Shift+Space 自動補全程式碼
+- Alt+ENTER 匯入包,自動修正
 
 :::info
 - **Location:** Room A
@@ -13,7 +20,7 @@ Meeting Minute
 2. Sprint planning `45min`
 3. Revisit onboarding v1 `20min`
 - **Participants:**
-    - Max (MX)
+    - Ctrl+Shift+N 查詢檔案
     - Yukai (YK)
     - Yuhsuan (YH)
     - Arwen (YC)
@@ -23,9 +30,6 @@ Meeting Minute
 
 :::
 
-## Walk through signup flow 
-
-- [Slide to explain the flow](/p/slide-example)
 
 :dart: Sprint Goal
 ---
