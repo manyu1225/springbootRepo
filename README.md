@@ -15,19 +15,15 @@ Intellij & Spring Boot
 - Ctrl+Q 顯示註釋文件
 - Ctrl+H 顯示類結構圖
 - Ctrl＋F12，顯示當前檔案的結構
-
 - Ctrl+X 刪除行
 - Ctrl+D 複製行
 - Ctrl+Alt+L  格式化程式碼
-
 - Alt+ left/right 切換程式碼檢視
 - Alt+ Up/Down 在方法間快速移動定位
 - Alt+ENTER 匯入包,自動修正
 - Alt+F1 查詢程式碼所在位置
 - Alt+1 快速開啟或隱藏工程皮膚
-- 
 - Shift+F6  重構-重新命名
-
 - F2 或Shift+F2 高亮錯誤或警告快速定位
 
 
@@ -56,7 +52,6 @@ Intellij & Spring Boot
 ### Development Team:
 - [ ] ==5== Email invite
   - [x] ==4== Email registration page **5**
-  - [ ] ==5== Email invitees **3**
 - [ ] ==4== Setup e2e test in production **2**
 
 ### Design Team:
