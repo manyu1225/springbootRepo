@@ -1,6 +1,12 @@
 Intellij & Spring Boot
 ===
 ###### tags: `Spring Boot` `Intellij`
+
+## Notes 
+<!--  <max@example.com>-->
+- **Reference:** - [github](https://github.com/dyc87112/SpringBoot-Learning/tree/master/2.x/chapter2-3)
+
+
 :mag: 常用快捷鍵列表
 ---
 - 選中文字，按Ctrl+Shift+F7 ，高亮顯示所有該文字，按Esc高亮消失。
@@ -27,24 +33,23 @@ Intellij & Spring Boot
 - F2 或Shift+F2 高亮錯誤或警告快速定位
 
 
-- **Date:** Nov 1, 2030 2:30 PM (CET)
-1. Walk through signup flow `45min`
+:books: Spring Boot
+---
+- **Stereotype Annotations (刻板印象標注):**
+1. 自動識別這個類別的角色與用途 `45min`
 	> [name=Yukai]
-2. Sprint planning `45min`
-3. Revisit onboarding v1 `20min`
-- **Participants:**
+2.  Framework 可以透過 Component scanning 快速的找到相對應的服務。 `45min`
+** **
+- **@EnableAutoConfiguration:**
+1. Spring Boot 自動找出所有相依套件中 JAR 檔的類別，並自動建立與註冊成 Spring Beans 元件，好讓 Spring Boot 可以在需要的時候使用這些可重複利用這些的 Spring Beans 元件。
+
+
     - Ctrl+Shift+N 查詢檔案
-- **Contact:** Max <max@example.com>
-- **Reference:** - [Last week meeting minute](/s/template-meeting-note)
 
-:dart: Sprint Goal
+:dart: MAVEN
 ---
+- Nested JAR 的封裝方式- 發佈一個自我包含所有 JAR 檔的 JAR 可執行檔(self-contained executable jar file)
 
-:books: Sprint Backlog
----
-
-
-### What we can start Doing
 
 :closed_book: Tasks
 --
@@ -54,8 +59,3 @@ Intellij & Spring Boot
   - [x] ==4== Email registration page **5**
 - [ ] ==4== Setup e2e test in production **2**
 
-### Design Team:
-- [ ] ==5== Help user discover new features **5**
-
-## Notes 
-<!-- Other important details discussed during the meeting can be entered here. -->
