@@ -78,3 +78,7 @@ Intellij & Spring Boot
   - [x] ==4== Email registration page **5**
 - [ ] ==4== Setup e2e test in production **2**
 
+
+### linux:
+https://blog.techbridge.cc/2019/02/01/linux-curl-command-tutorial/
+https://hackmd.io/@brlin/orncb-http-clients/%2F%40brlin%2Forncb-curl-docs
